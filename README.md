@@ -1,3 +1,4 @@
 # Game of Life
 
-Using ReactJS with the Free Code Camps tutorial
+### Updated on 10/03/2017
+Created using ReactJS and NodeJS
